@@ -5,4 +5,6 @@
 
 Trinket that gets rid of a curse when getting to a new floor. Dissapears after beeing used.
 
-[Trinket in action](https://youtu.be/CG-5wH0RBm8)
+![Trinket in action](https://media.giphy.com/media/kPm3MgVXTiDlu858Ju/giphy.gif)
+
+[Video](https://youtu.be/CG-5wH0RBm8)

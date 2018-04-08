@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Suppository</name>
+    <directory>suppository</directory>
+    <id>857320378</id>
+    <description>Trinket that when getting to a new floor, if the player is cursed, gets used and clears all the curses.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>
